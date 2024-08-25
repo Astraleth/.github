@@ -58,17 +58,3 @@ commits to the codebase:
   called `Launcher` and only initialize the main class.
 - Static abuse is strictly forbidden; dependency injection should be used in every possible scenario.
 - Variables should have a clear and understandable name, nothing like `int i; float f;` etc.
-
-## 💼 Hiring
-
-Since we are a group of MMO enthusiasts that don't really plan on making any money with the server, all positions inside
-Astraleth are voluntary positions.
-Because of obvious reasons, we require each new member of the team to sign an NDA and
-a copyright assignment.
-Because of that, we are only hiring above the age of 18.
-If you want to join our team and are
-willing to sign the documents required, you can reach out to us using different ways:
-
-- By using our [website](https://www.astraleth.net) (currently down)
-- By writing an email to apply@astraleth.net
-- Or by joining our [Discord server](https://dc.astraleth.net)
