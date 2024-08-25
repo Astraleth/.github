@@ -11,7 +11,6 @@ For questions or support, please head over to our [Discord](https://dc.astraleth
 - 💻 [Our technology](#-our-technology)
 - 🦅 [Branching strategy](#-branching-strategy)
 - 📖 [Style guide](#-style-guide)
-- 💼 [Hiring](#-hiring)
 
 ## 💻 Our technology
 
