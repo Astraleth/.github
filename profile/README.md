@@ -18,7 +18,7 @@ Our core server software is built using [Minestom](https://minestom.net/).
 For our database, we use a combination of PostgreSQL for structured and MongoDB for unstructured data.
 Each game server runs independently of each other and is built to be redeployed at any point,
 meaning all player data is stored in the database.
-Our core system is organized by using a [module system](https://git.astraleth.net/astramod).
+Our core system is organized by using a [module system](https://github.com/astraleth/astramod).
 For deployment,
 we use Docker with a custom cloud system that allows a deployment of Docker containers depending on the player count.
 
