@@ -1,5 +1,7 @@
 # Hello there 👋
 
+⚠️ This project is currently undergoing maintenance ⚠️
+
 Welcome to our GitHub organization.
 Here you can find a lot of different tools and projects
 written for the [Astraleth Minecraft Server](https://astraleth.net).
