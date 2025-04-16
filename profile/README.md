@@ -1,3 +1,3 @@
 # Hello there 👋
 
-⚠️ This project is currently undergoing maintenance ⚠️
+⚠️ This project is currently paused ⚠️
